@@ -3,7 +3,7 @@
 # Materi : Perulanagan
 # Soal Study Kasus
 
-jumlah = int(input("Masukan Jumlah Bilangan Yang Akan Dibuah : "))
+jumlah = int(input("Masukan Jumlah Bilangan Yang Akan Diubah : "))
 bilangan =[]
 i = 0
 p = 0
